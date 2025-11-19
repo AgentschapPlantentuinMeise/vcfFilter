@@ -47,6 +47,8 @@ optional arguments:
   
     The minimum genotype quality of the call.
 
+    Default = 0.0
+
   --completeness COMPLETENESS
 
     SNPs with a lower completeness level are discarded.
